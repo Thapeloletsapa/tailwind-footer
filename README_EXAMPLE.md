@@ -5,15 +5,15 @@
 
 ### Overview
 
-In this project, I recreated a simplified version of an Instagram profile page focusing on CSS layout and styling. This involved applying various CSS techniques to achieve a responsive, aesthetically pleasing design that functions well across different devices.
+In this project, I recreated a copy of the codespce footer. This involved applying various CSS techniques to achieve a responsive, aesthetically pleasing design that functions well across different devices.
 
 ### Reflections
 
 #### Areas of Mastery
 
-- **CSS Layout Techniques**: I feel confident in using Flexbox and Grid to structure web page elements. Implementing these techniques to align and distribute content was a highlight of my learning.
+- **CSS Layout Techniques**: I feel confident in using U/I and Tailwind to structure web page elements. Implementing these techniques to align and distribute content was a highlight of my learning.
 - **Responsive Design**: I successfully implemented media queries to ensure the page looks good on both desktop and mobile screens.
-- **Styling Elements**: I was able to style the profile image, user information, and gallery section effectively, closely resembling an Instagram profile.
+- **Styling Elements**: I was able to style the profile image, user information, and gallery section effectively, closely resembling footer provided.
 
 #### Challenges Faced
 
@@ -22,11 +22,11 @@ In this project, I recreated a simplified version of an Instagram profile page f
 
 #### Areas for Improvement
 
-- **Advanced CSS Properties**: I want to explore more advanced CSS properties and animations to enhance the user experience.
+- **Css frameworks**: I want to explore more on CSS frameworks and U/I to enhance the user experience.
 - **Code Optimization**: While my code achieved the desired outcome, I believe I can improve its efficiency and readability.
-- **Creative Design Choices**: I adhered closely to the Instagram layout for practice but would like to experiment with more creative design choices in future projects.
+- **Creative Design Choices**: I adhered closely to the Codespace footer layout for practice but would like to experiment with more creative design choices in future projects.
 
 #### Overall Learning Experience
 
-This project was an invaluable hands-on experience in applying CSS layout techniques. It helped solidify my understanding of CSS and its practical applications in web development. I look forward to building on these skills in future projects.
+This project was an invaluable hands-on experience in applying CSS framework techniques. It helped solidify my understanding of CSS and its practical applications in web development. I look forward to building on these skills in future projects.
 
